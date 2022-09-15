@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
  */
 public class CalculatorServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-	double res;
+	static double res;
     public CalculatorServlet() {
         super();
         // TODO Auto-generated constructor stub

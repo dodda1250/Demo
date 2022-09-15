@@ -17,10 +17,10 @@
 		<maven.compiler.target>1.7</maven.compiler.target>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sonar.projectKey>dodda</sonar.projectKey>
+		<sonar.projectKey>project</sonar.projectKey>
 		<sonar.language>java</sonar.language>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>sqp_0d8c5186deadefef4d4a8da1bb6ffed838aa79ca</sonar.login>
+		<sonar.login>sqp_7d22cb5581f9fe69092156f340674cbdc6cf0386</sonar.login>
 
 	</properties>
 
